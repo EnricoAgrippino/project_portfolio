@@ -1,1 +1,10 @@
 # project_portfolio
+This git repository contains some of the projects I carried out during my university studies.
+## Covid 19 tweet analysis
+This power point presentation (unfortunately in Italian) is about an analysis of a week of tweets related to Covid. My colleague and I implemented some text processing techniques in order to obtain some useful information from rough text data. We first applied clustering tecnhiques, then frequent itemset and association rules extraction was carried out. Most of the presentation is about the results obtained and their interpretation. We also tried to imagine a business outcome for our analysis.
+## Liver Patient report
+In this report (written in English) I apply classification machine learning techniques to a medical dataset. The aim of my work is classifing the patients into liver or not liver desease affected. After exploring and analyzing data, I carry out many classification techniques (KNN, logistic regression, SVM with different kernels, random forests...) comparing them on the basis of confusion matrices, ROC curves and AUC indexes.
+## Production management with stochastic demand
+This work is about Reinforcement learning and dynamical programming. The aim is finding an optimal production policy among four different products of two families given a finite inventory availabilty and stochastic demand. Other hypothesis are setup times and costs, stock-out and on-hand inventory penalties, fixed production capacity and time. Results analysis and sensitivity to input parameters are also carried out. The software used was MATLAB. The code is also reported. 
+## Customer retention analysis
+This project was part of a course named "Business analytics". It is about predicting the customer retention for the next year based on current year data. Some statistical analysis are carried out in order to study the importance of the predictors and their possible correlations. This work is related to the business case "Pilgrim bank" provided by Harvard business school.
