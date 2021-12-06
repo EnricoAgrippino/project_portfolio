@@ -1,5 +1,5 @@
 # project_portfolio
-This git repository contains some of the projects I carried out during my university studies.
+This git repository contains some of the projects I worked on during my university studies.
 ## Covid 19 tweet analysis
 This power point presentation (unfortunately in Italian) is about an analysis of a week of tweets related to Covid. My colleague and I implemented some text processing techniques in order to obtain some useful information from rough text data. We first applied clustering tecnhiques, then frequent itemset and association rules extraction was carried out. Most of the presentation is about the results obtained and their interpretation. We also tried to imagine a business outcome for our analysis.
 ## Liver Patient report
